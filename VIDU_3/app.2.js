@@ -1,4 +1,6 @@
-// Bài 31
+// Bài 31 và 36
+
+'use strict'
 
 var EventEmitter = require("events");
 var util = require("util");
